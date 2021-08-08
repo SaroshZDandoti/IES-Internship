@@ -1,0 +1,1243 @@
+﻿{
+
+
+	"gbXML": {
+		"Campus": {
+			"Name": "Untitled",
+			"Location": {
+				"ZipcodeOrPostalCode": "G20 0SP",
+				"Name": "London/Heathrow",
+				"Latitude": "51.480000",
+				"Longitude": "-0.450000",
+				"Elevation": "24.000000",
+				"CADModelAzimuth": "0.000000"
+			},
+			"Building": {
+				"BuildingStorey": {
+					"Name": "All rooms",
+					"CADObjectId": "STOREY_id_0",
+					"Level": "0.000000",
+					"_id": "STOREY_1"
+				},
+				"Space": {
+					"Name": "Space",
+					"Area": "30.000000",
+					"Volume": "120.000000",
+					"CADObjectId": "SP000001",
+					"TypeCode": "0",
+					"ShellGeometry": {
+						"ClosedShell": {
+							"PolyLoop": [
+								{
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"0.000000"
+											]
+										}
+									]
+								},
+								{
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"4.000000"
+											]
+										}
+									]
+								},
+								{
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"4.000000"
+											]
+										}
+									]
+								},
+								{
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"4.000000"
+											]
+										}
+									]
+								},
+								{
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"4.000000"
+											]
+										}
+									]
+								},
+								{
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"4.000000"
+											]
+										}
+									]
+								}
+							]
+						},
+						"_id": "SP000001-shellgeometry"
+					},
+					"SpaceBoundary": [
+						{
+							"PlanarGeometry": {
+								"PolyLoop": {
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"0.000000"
+											]
+										}
+									]
+								}
+							},
+							"_isSecondLevelBoundary": "true",
+							"_surfaceIdRef": "surface-1"
+						},
+						{
+							"PlanarGeometry": {
+								"PolyLoop": {
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"4.000000"
+											]
+										}
+									]
+								}
+							},
+							"_isSecondLevelBoundary": "true",
+							"_surfaceIdRef": "surface-2"
+						},
+						{
+							"PlanarGeometry": {
+								"PolyLoop": {
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"4.000000"
+											]
+										}
+									]
+								}
+							},
+							"_isSecondLevelBoundary": "true",
+							"_surfaceIdRef": "surface-3"
+						},
+						{
+							"PlanarGeometry": {
+								"PolyLoop": {
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"9.000000",
+												"4.000000"
+											]
+										}
+									]
+								}
+							},
+							"_isSecondLevelBoundary": "true",
+							"_surfaceIdRef": "surface-4"
+						},
+						{
+							"PlanarGeometry": {
+								"PolyLoop": {
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-8.000000",
+												"4.000000",
+												"4.000000"
+											]
+										}
+									]
+								}
+							},
+							"_isSecondLevelBoundary": "true",
+							"_surfaceIdRef": "surface-5"
+						},
+						{
+							"PlanarGeometry": {
+								"PolyLoop": {
+									"CartesianPoint": [
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"0.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"9.000000",
+												"4.000000"
+											]
+										},
+										{
+											"Coordinate": [
+												"-2.000000",
+												"4.000000",
+												"4.000000"
+											]
+										}
+									]
+								}
+							},
+							"_isSecondLevelBoundary": "true",
+							"_surfaceIdRef": "surface-6"
+						}
+					],
+					"_id": "SP000001",
+					"_zoneIdRef": "ZONE_1",
+					"_conditionType": "HeatedAndCooled",
+					"_buildingStoreyIdRef": "STOREY_1"
+				},
+				"_id": "42fac899_3355_48e1_9f36_2b1b3b7d0f3b",
+				"_buildingType": "Unknown"
+			},
+			"Surface": [
+				{
+					"AdjacentSpaceId": {
+						"_spaceIdRef": "SP000001"
+					},
+					"RectangularGeometry": {
+						"Azimuth": "0.000000",
+						"Tilt": "180.000000",
+						"CartesianPoint": {
+							"Coordinate": [
+								"-2.000000",
+								"4.000000",
+								"0.000000"
+							]
+						},
+						"Height": "5.000000",
+						"Width": "6.000000"
+					},
+					"PlanarGeometry": {
+						"PolyLoop": {
+							"CartesianPoint": [
+								{
+									"Coordinate": [
+										"-2.000000",
+										"4.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"4.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"9.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-2.000000",
+										"9.000000",
+										"0.000000"
+									]
+								}
+							]
+						}
+					},
+					"_id": "surface-1",
+					"_surfaceType": "ExposedFloor",
+					"_constructionIdRef": "STD_FLO1"
+				},
+
+				
+				{
+					"AdjacentSpaceId": {
+						"_spaceIdRef": "SP000001"
+					},
+					"RectangularGeometry": {
+						"Azimuth": "0.000000",
+						"Tilt": "0.000000",
+						"CartesianPoint": {
+							"Coordinate": [
+								"-2.000000",
+								"9.000000",
+								"4.000000"
+							]
+						},
+						"Height": "5.000000",
+						"Width": "6.000000"
+					},
+					"PlanarGeometry": {
+						"PolyLoop": {
+							"CartesianPoint": [
+								{
+									"Coordinate": [
+										"-2.000000",
+										"9.000000",
+										"4.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"9.000000",
+										"4.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"4.000000",
+										"4.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-2.000000",
+										"4.000000",
+										"4.000000"
+									]
+								}
+							]
+						}
+					},
+					"_id": "surface-2",
+					"_surfaceType": "Roof",
+					"_constructionIdRef": "STD_ROOF"
+				},
+				{
+					"AdjacentSpaceId": {
+						"_spaceIdRef": "SP000001"
+					},
+					"RectangularGeometry": {
+						"Azimuth": "0.000000",
+						"Tilt": "90.000000",
+						"CartesianPoint": {
+							"Coordinate": [
+								"-2.000000",
+								"9.000000",
+								"0.000000"
+							]
+						},
+						"Height": "4.000000",
+						"Width": "6.000000"
+					},
+					"PlanarGeometry": {
+						"PolyLoop": {
+							"CartesianPoint": [
+								{
+									"Coordinate": [
+										"-2.000000",
+										"9.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"9.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"9.000000",
+										"4.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-2.000000",
+										"9.000000",
+										"4.000000"
+									]
+								}
+							]
+						}
+					},
+					"_id": "surface-3",
+					"_surfaceType": "ExteriorWall",
+					"_constructionIdRef": "STD_WAL1"
+				},
+				{
+					"AdjacentSpaceId": {
+						"_spaceIdRef": "SP000001"
+					},
+					"RectangularGeometry": {
+						"Azimuth": "270.000000",
+						"Tilt": "90.000000",
+						"CartesianPoint": {
+							"Coordinate": [
+								"-8.000000",
+								"9.000000",
+								"0.000000"
+							]
+						},
+						"Height": "4.000000",
+						"Width": "5.000000"
+					},
+					"PlanarGeometry": {
+						"PolyLoop": {
+							"CartesianPoint": [
+								{
+									"Coordinate": [
+										"-8.000000",
+										"9.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"4.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"4.000000",
+										"4.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"9.000000",
+										"4.000000"
+									]
+								}
+							]
+						}
+					},
+					"_id": "surface-4",
+					"_surfaceType": "ExteriorWall",
+					"_constructionIdRef": "STD_WAL1"
+				},
+				{
+					"AdjacentSpaceId": {
+						"_spaceIdRef": "SP000001"
+					},
+					"RectangularGeometry": {
+						"Azimuth": "180.000000",
+						"Tilt": "90.000000",
+						"CartesianPoint": {
+							"Coordinate": [
+								"-8.000000",
+								"4.000000",
+								"-0.000000"
+							]
+						},
+						"Height": "4.000000",
+						"Width": "6.000000"
+					},
+					"PlanarGeometry": {
+						"PolyLoop": {
+							"CartesianPoint": [
+								{
+									"Coordinate": [
+										"-8.000000",
+										"4.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-2.000000",
+										"4.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-2.000000",
+										"4.000000",
+										"4.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-8.000000",
+										"4.000000",
+										"4.000000"
+									]
+								}
+							]
+						}
+					},
+					"_id": "surface-5",
+					"_surfaceType": "ExteriorWall",
+					"_constructionIdRef": "STD_WAL1"
+				},
+				{
+					"AdjacentSpaceId": {
+						"_spaceIdRef": "SP000001"
+					},
+					"RectangularGeometry": {
+						"Azimuth": "90.000000",
+						"Tilt": "90.000000",
+						"CartesianPoint": {
+							"Coordinate": [
+								"-2.000000",
+								"4.000000",
+								"-0.000000"
+							]
+						},
+						"Height": "4.000000",
+						"Width": "5.000000"
+					},
+					"PlanarGeometry": {
+						"PolyLoop": {
+							"CartesianPoint": [
+								{
+									"Coordinate": [
+										"-2.000000",
+										"4.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-2.000000",
+										"9.000000",
+										"0.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-2.000000",
+										"9.000000",
+										"4.000000"
+									]
+								},
+								{
+									"Coordinate": [
+										"-2.000000",
+										"4.000000",
+										"4.000000"
+									]
+								}
+							]
+						}
+					},
+					"_id": "surface-6",
+					"_surfaceType": "ExteriorWall",
+					"_constructionIdRef": "STD_WAL1"
+				}
+			],
+			"_id": "campus-1"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		"Zone": {
+			"Name": "All rooms",
+			"DesignHeatT": {
+				"_unit": "C",
+				"__text": "0.000000"
+			},
+			"DesignCoolT": {
+				"_unit": "C",
+				"__text": "0.000000"
+			},
+			"CADObjectId": "ZONE_id_0",
+			"TypeCode": "1",
+			"_id": "ZONE_1"
+		},
+
+
+		"Construction": [
+			{
+				"Name": "2013 Exposed Floor",
+				"U-value": {
+					"_unit": "WPerSquareMeterK",
+					"__text": "0.220006"
+				},
+				"LayerId": {
+					"_layerIdRef": "layer-STD_FLO1"
+				},
+				"_id": "STD_FLO1"
+			},
+			{
+				"Name": "2013 Roof",
+				"U-value": {
+					"_unit": "WPerSquareMeterK",
+					"__text": "0.179976"
+				},
+				"LayerId": {
+					"_layerIdRef": "layer-STD_ROOF"
+				},
+				"_id": "STD_ROOF"
+			},
+			{
+				"Name": "2013 External Wall",
+				"U-value": {
+					"_unit": "WPerSquareMeterK",
+					"__text": "0.259892"
+				},
+				"LayerId": {
+					"_layerIdRef": "layer-STD_WAL1"
+				},
+				"_id": "STD_WAL1"
+			},
+			{
+				"Name": "Unknown construction",
+				"_id": "UNKNOWN_OP"
+			}
+		],
+
+		"Layer": [
+			{
+				"MaterialId": [
+					{
+						"_materialIdRef": "STD_PH1-0.0982"
+					},
+					{
+						"_materialIdRef": "STD_CC2-0.1"
+					},
+					{
+						"_materialIdRef": "Cavity-AIR-0.05-0.21"
+					},
+					{
+						"_materialIdRef": "STD_FBA-0.02"
+					}
+				],
+				"_id": "layer-STD_FLO1"
+			},
+			{
+				"MaterialId": [
+					{
+						"_materialIdRef": "STD_PHF-0.1544"
+					},
+					{
+						"_materialIdRef": "STD_MEM-0.0001"
+					},
+					{
+						"_materialIdRef": "STD_CC1-0.1"
+					},
+					{
+						"_materialIdRef": "Cavity-AIR-0.05-0.16"
+					},
+					{
+						"_materialIdRef": "STD_US5-0.0125"
+					}
+				],
+				"_id": "layer-STD_ROOF"
+			},
+			{
+				"MaterialId": [
+					{
+						"_materialIdRef": "STD_SM1-0.003"
+					},
+					{
+						"_materialIdRef": "Cavity-AIR-0.05-0.13"
+					},
+					{
+						"_materialIdRef": "STD_EPS-0.0814"
+					},
+					{
+						"_materialIdRef": "STD_USP-0.012"
+					},
+					{
+						"_materialIdRef": "Cavity-AIR-0.05-0.18"
+					},
+					{
+						"_materialIdRef": "STD_US1-0.0125"
+					}
+				],
+				"_id": "layer-STD_WAL1"
+			}
+		],
+		
+
+		"Material": [
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.050000"
+				},
+				"Name": "AIR",
+				"R-value": {
+					"_unit": "SquareMeterKPerW",
+					"__text": "0.130000"
+				},
+				"_id": "Cavity-AIR-0.05-0.13"
+			},
+
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.050000"
+				},
+				"Name": "AIR",
+				"R-value": {
+					"_unit": "SquareMeterKPerW",
+					"__text": "0.160000"
+				},
+				"_id": "Cavity-AIR-0.05-0.16"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.050000"
+				},
+				"Name": "AIR",
+				"R-value": {
+					"_unit": "SquareMeterKPerW",
+					"__text": "0.180000"
+				},
+				"_id": "Cavity-AIR-0.05-0.18"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.050000"
+				},
+				"Name": "AIR",
+				"R-value": {
+					"_unit": "SquareMeterKPerW",
+					"__text": "0.210000"
+				},
+				"_id": "Cavity-AIR-0.05-0.21"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.100000"
+				},
+				"Name": "Concrete Deck",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "2.000000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "2400.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1000.000000"
+				},
+				"_id": "STD_CC1-0.1"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.100000"
+				},
+				"Name": "Reinforced Concrete",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "2.300000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "2300.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1000.000000"
+				},
+				"_id": "STD_CC2-0.1"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.081400"
+				},
+				"Name": "Insulation",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "0.025000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "20.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1030.000000"
+				},
+				"_id": "STD_EPS-0.0814"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.020000"
+				},
+				"Name": "Chipboard Flooring",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "0.130000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "500.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1600.000000"
+				},
+				"_id": "STD_FBA-0.02"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.000100"
+				},
+				"Name": "Membrane",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "1.000000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "1100.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1000.000000"
+				},
+				"_id": "STD_MEM-0.0001"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.098200"
+				},
+				"Name": "Insulation",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "0.025000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "700.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1000.000000"
+				},
+				"_id": "STD_PH1-0.0982"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.154400"
+				},
+				"Name": "Insulation",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "0.030000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "40.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1450.000000"
+				},
+				"_id": "STD_PHF-0.1544"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.003000"
+				},
+				"Name": "Rainscreen",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "50.000000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "7800.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "450.000000"
+				},
+				"_id": "STD_SM1-0.003"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.012500"
+				},
+				"Name": "Plasterboard",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "0.210000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "700.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1000.000000"
+				},
+				"_id": "STD_US1-0.0125"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.012500"
+				},
+				"Name": "Plasterboard",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "0.210000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "700.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1000.000000"
+				},
+				"_id": "STD_US5-0.0125"
+			},
+			{
+				"Thickness": {
+					"_unit": "Meters",
+					"__text": "0.012000"
+				},
+				"Name": "Cement bonded particle board",
+				"Conductivity": {
+					"_unit": "WPerMeterK",
+					"__text": "0.230000"
+				},
+				"Density": {
+					"_unit": "KgPerCubicM",
+					"__text": "1100.000000"
+				},
+				"SpecificHeat": {
+					"_unit": "JPerKgK",
+					"__text": "1000.000000"
+				},
+				"_id": "STD_USP-0.012"
+			}
+		],
+
+		"DocumentHistory": {
+			"ProgramInfo": {
+				"CompanyName": "Integrated Environmental Solutions Limited.",
+				"ProductName": "Virtual Environment 2019 Feature Pack 3",
+				"Version": "2019.3.0.0",
+				"Platform": "Server 2012",
+				"_id": "IESVE"
+			},
+			"PersonInfo": {
+				"FirstName": "dando",
+				"LastName": "dando",
+				"_id": "dando"
+			},
+			"CreatedBy": {
+				"CADModelId": "",
+				"_personId": "dando",
+				"_programId": "IESVE",
+				"_date": "2021-02-01T21:12:51"
+			}
+		},
+
+		"_xmlns": "http://www.gbxml.org/schema",
+		"_temperatureUnit": "C",
+		"_lengthUnit": "Meters",
+		"_areaUnit": "SquareMeters",
+		"_volumeUnit": "CubicMeters",
+		"_useSIUnitsForResults": "true",
+		"_version": "0.37"
+	}
+}
